@@ -46,7 +46,9 @@ flowchart LR
 └── data/                # raw / clean 分层数据
 ```
 
-> 仓库已配置 GitHub Pages，访问 `https://<你的用户名>.github.io/<仓库名>/` 即可打开作品集主页。
+> **在线预览**：https://setia-801.github.io/web-job-analysis/ ｜ **仓库**：https://github.com/Setia-801/web-job-analysis
+>
+> 主页包含：项目叙事、5 个分析问题与结论、清洗漏斗、交互看板、简历描述；可跳转到报告与可视化方案页。
 
 ## 快速开始
 
